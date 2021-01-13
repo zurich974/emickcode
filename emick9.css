@@ -1,0 +1,81 @@
+.contact_section {
+    margin-top: 6rem;
+}
+
+.contact_section1 {
+    height: 35rem;
+    width: 70rem;
+}
+
+.contact-title {
+    font-size: 27px;
+    font-weight: 600;
+    margin-top: 8rem;
+}
+
+.control {
+    height: 48px;
+    width: 100%;
+    margin-top: 1rem;
+}
+.form-control {
+    margin-left: 0rem;
+}
+.kin1 {
+    margin-top: 3rem;
+}
+.home {
+    margin-left: 4rem;
+}
+.med {
+    margin-top: 1rem;
+    margin-right: 1rem;
+}
+.med1 {
+    margin-top: 3rem;
+    margin-right: 1rem;
+}
+.lo {
+    font-size: 26px;
+}
+.media-body2 {
+    margin-left: 0.7rem;
+    margin-top: 2rem;
+}
+.media-body3 {
+    margin-top: 2rem;
+}
+.foot5 {
+    margin-top: 2rem;
+}
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+    .abt1 {
+        width: 100%;
+        height: 100%;
+    }
+    .centered {
+        position: absolute;
+        top: 92%;
+        left: 50%;
+        margin-top: -12rem;
+        font-size: 61px;
+    }
+}
+
+@media (max-width: 600px) {
+    .abt1 {
+        width: 100%;
+    }
+    .abt {
+        margin-top: 0rem;
+    }
+
+    .centered {
+        position: absolute;
+        top: 92%;
+        left: 50%;
+        margin-top: -14rem;
+        font-size: 36px;
+    }
+}

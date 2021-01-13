@@ -1,0 +1,77 @@
+.see1 {
+    margin-top: -15rem;
+}
+.see2 {
+    width: 100%;
+}
+.see8 {
+    background-color: #f7f7f7;
+    height: 74rem;
+}
+.see3 {
+    margin-top: -22rem;
+    color: white;
+}
+.see4 {
+    margin-top: 1.8rem;
+}
+
+@media (max-width: 600px) {
+    .centered {
+        position: absolute;
+        top: 92%;
+        left: 50%;
+        margin-top: -3rem;
+        font-size: 21px;
+    }
+    .see1 {
+        margin-top: 45rem;
+    }
+    .see3 {
+        margin-top: -9rem;
+    }
+    .see2 {
+        height: 18rem;
+        width: 100%;
+    }
+    .see4 {
+        margin-top: -7.2rem;
+    }
+    .see5 {
+        display: none;
+    }
+    .see7 {
+        display: none;
+    }
+    .see6 {
+        display: none;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+    .centered {
+        position: absolute;
+        top: 92%;
+        left: 50%;
+        margin-top: -5rem;
+        font-size: 50px;
+    }
+
+    .see1 {
+        margin-top: 0rem;
+    }
+    .see2 {
+        width: 100%;
+        height: 41rem;
+    }
+    .see8 {
+        background-color: #f7f7f7;
+        height: 115rem;
+        width: auto;
+    }
+
+    .see3 {
+        margin-left: 8rem;
+        margin-top: -40rem;
+    }
+}
